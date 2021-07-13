@@ -1,5 +1,5 @@
 <?php
-//a
+//ahoj
 require_once("connect.php");
 require_once("categories_model.php");
 
